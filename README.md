@@ -16,6 +16,10 @@ Adds the spells from *Unearthed Arcana 2023: Bastions and Cantrips* to the MPMB 
 
 This script will allow users to more easily playtest the upcoming revision to D&D 5E.
 
+**Script Patch Notes:**
+- **2024-03-20:**
+  - Added URL attribute to the source section within the script.
+
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
 
