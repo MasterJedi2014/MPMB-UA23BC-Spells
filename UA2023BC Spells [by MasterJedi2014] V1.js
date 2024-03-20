@@ -19,6 +19,7 @@ SourceList["UA23BC"] = {
 	name : "Unearthed Arcana 2023: Bastions and Cantrips",
 	abbreviation : "UA23BC",
 	date : "2023/10/05",
+	url : "https://media.dndbeyond.com/compendium-images/ua/bastions-cantrips/BRF3GSu0nTfNu8p4/UA2023-BastionsCantrips.pdf",
 };
 
 // Add spells
