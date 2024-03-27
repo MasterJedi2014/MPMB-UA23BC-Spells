@@ -3,7 +3,7 @@
 	Effect:		This script adds the UA versions of the spells from the 2023 Unearthed Arcana "Bastions and Cantrips" article.
 				This file has been made by MasterJedi2014.
 	Code by:	MasterJedi2014, using MorePurpleMoreBetter's code as reference
-	Date:		2024-03-20 (sheet v13.1.0)
+	Date:		2024-03-27 (sheet v13.1.0)
 */
 
 var iFileName = "UA2023BC Spells [by MasterJedi2014] V1.js";
@@ -63,8 +63,8 @@ SpellsList["chill touch ua23bc"] = {
 	range : "Touch",
 	components : "V,S",
 	duration : "Instantaneous",
-	description : "Melee spell atk for 1d10 Necrotic dmg; can't regain HP; +1d8 at CL 5, 11, and 17", //Ripped directly from "ListsSpells.js" and then altered
-	descriptionShorter : "Melee spell atk for 1d10 Necrotic dmg; can't regain HP; +1d8 at CL 5/11/17", //Ripped directly from "ListsSpells.js" and then altered
+	description : "Melee spell atk for 1d10 Necrotic dmg; can't regain HP; +1d10 at CL 5, 11, and 17", //Ripped directly from "ListsSpells.js" and then altered
+	descriptionShorter : "Melee spell atk for 1d10 Necrotic dmg; can't regain HP; +1d10 at CL 5/11/17", //Ripped directly from "ListsSpells.js" and then altered
 	descriptionCantripDie : "Melee spell atk for `CD`d10 Necrotic dmg; can't regain hp", //Ripped directly from "ListsSpells.js" and then altered
 	descriptionFull : "You channel the chill of the grave toward one creature you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d10 Necrotic damage, and it can’t regain Hit Points until the end of your next turn." + "\n   " + "Cantrip Upgrade. This spell’s damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).",
 };
