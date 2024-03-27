@@ -19,6 +19,8 @@ This script will allow users to more easily playtest the upcoming revision to D&
 **Script Patch Notes:**
 - **2024-03-20:**
   - Added URL attribute to the source section within the script.
+- **2024-03-27:**
+  - Fixed the **Chill Touch** cantrip's description to correctly state that damage increases by 1d10 instead of 1d8 at the appropriate levels.
 
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
